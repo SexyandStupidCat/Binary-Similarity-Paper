@@ -2,6 +2,9 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Cross-Inlining Binary Function Similarity Detection | ICSE | 2024 | [link](https://arxiv.org/pdf/2401.05739.pdf) | | | [link](https://github.com/island255/cross-inlining_binary_function_similarity) |
+| BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing | ICSE | 2024 | [link](https://dl.acm.org/doi/10.1145/3597503.3623328) | | | [link](https://github.com/wwkenwong/BinAug/) |
+| SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing| NDSS | 2024 | [link](https://www.ndss-symposium.org/wp-content/uploads/2024-208-paper.pdf) | | | [link](https://github.com/yijiufly/SigmaDiff) |
 | CLAP: Learning Transferable Binary Code Representations with Natural Language Supervision | ISSTA | 2024 | [link](https://arxiv.org/pdf/2402.16928.pdf) | | | [link](https://github.com/Hustcw/CLAP)|
 | CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection | ISSTA | 2024 | [link](https://arxiv.org/pdf/2402.18818.pdf) | | | [link](https://github.com/Hustcw/CEBin)|
 | FASER: Binary Code Similarity Search through the use of Intermediate Representations | CAMLIS | 2023 | [link](https://arxiv.org/pdf/2310.03605.pdf) | | [link](https://www.youtube.com/watch?v=d5SGeQbvG4o)| [link](https://github.com/br0kej/FASER)|
